@@ -1,0 +1,10 @@
+/* LoadingAnimation.css */
+.loading-animation {
+    /* Add your styling for the loading animation */
+    /* Example styles: */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 20px;
+}

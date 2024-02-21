@@ -9,7 +9,13 @@ export default {
       backgroundImage: {
         'hero-pattern': "url('./public/content-image.jpg')",
         
-    }
+    },
+    colors:{
+      'yelogren': '#CDEA68',
+    },
+      scale: {
+        'minscale': '0.75',
+      },
   },
   plugins: [],
 }

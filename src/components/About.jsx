@@ -2,7 +2,7 @@
 
 function About() {
   return (
-    <div className="w-full z-10 p-20 bg-[#CDEA68] rounded-tl-3xl rounded-tl-3xl text-black">
+    <div className="w-full z-10 p-20 bg-[#CDEA68] rounded-tl-3xl rounded-tl-3xl z-[9] text-black">
           <h1 className="font-[Neue_Montreal] text-[3.8vw] leading-[4.2vw] tracking-tight">
           Ochi is a strategic partner for fast-grow­ing tech 
           businesses that need to raise funds, sell prod­ucts, 
